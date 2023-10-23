@@ -1,4 +1,5 @@
 ### Hi there 👋
+Ushbu repositoryda python darslariga oid kodlar jamlangan
 
 <!--
 **Nilufar2000/nilufar2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
